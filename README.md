@@ -12,7 +12,7 @@ We used this one as <a href="https://github.com/JuanjoLopez19/Ingenieria-del-sof
     <a href="https://github.com/JuanjoLopez19"><img src="https://avatars.githubusercontent.com/u/92031193?v=4" width="100px;" alt=""/>
      <br/>
      <sub>
-       <b>Juanjo López</b>
+       <b>Juanjo López 🙃</b>
      </sub>
     </a>
     <br /> 
@@ -20,7 +20,7 @@ We used this one as <a href="https://github.com/JuanjoLopez19/Ingenieria-del-sof
     <a href="https://github.com/robertomergon"><img src="https://avatars.githubusercontent.com/u/92520941?v=4" width="100px;" alt=""/>
      <br />
      <sub>
-      <b>Roberto Merchán</b>
+      <b>Roberto Merchán 🤠</b>
      </sub>
      </a>
      <br />
@@ -28,7 +28,7 @@ We used this one as <a href="https://github.com/JuanjoLopez19/Ingenieria-del-sof
     <a href="https://github.com/dmclazaro01"><img src="https://avatars.githubusercontent.com/u/93814183?v=4" width="100px;" alt=""/>
      <br />
      <sub>
-      <b>Daniel Lázaro</b>
+      <b>Daniel Lázaro 😎</b>
      </sub>
      </a>
      <br />
